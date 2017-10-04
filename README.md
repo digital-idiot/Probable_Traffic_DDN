@@ -13,3 +13,16 @@ Parameters of Estimation are:
 * Railway Crossing
 * Flyovers
 * Nearby Tourist Places
+
+# Result:
+
+![alt text](https://i.imgur.com/VODy4v4.png)
+
+
+
+# Comparable Google Traffic Map [Median of Typical Traffic over a the Week]:
+
+![alt text](https://i.imgur.com/E79gAyx.png)
+
+Software Used:
+* ArcGIS 10.3+
